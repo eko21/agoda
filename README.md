@@ -1,4 +1,6 @@
 # Agoda-Fetch-Login
+![Image Of RunFile](https://image.ibb.co/iEKRDT/decoded.png)
+
 
 How To Use This Tools ?
 
@@ -9,6 +11,6 @@ $. chmod +x agoda.sh
 $. ./agoda.sh
 ```
 
-AlchaDecode 2K18
+>AlchaDecode 2K18
 
 
